@@ -1,0 +1,6 @@
+Varun S Rajagopal
+varunsr@sas.upenn.edu
+I used Jupyter notebook to run my code. Hence, in the file there should be several instances that start with In[].
+Running those code blocks individually and in the order in which they're listed should lead to the results I got!
+(The reason I chose to do this was for simplicity of editing and evaluating algorithms in separate sections).
+Also, the averaged perceptron running time is large and hence was done with only 3 iterations. Submitting 23 hours late.
